@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIN_LIB", "VIN_LIB\VIN_LIB.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{758A5CD4-9BAE-4AED-A484-2C019A4D33D4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Дополнительные файлы", "Дополнительные файлы", "{B2931CF1-5BD8-4761-944C-6E1FC32977A3}"
-	ProjectSection(SolutionItems) = preProject
-		\\main\RDP\41П\ЖулинаАА\Desktop\Тестовый документ Жулина41П.docx = \\main\RDP\41П\ЖулинаАА\Desktop\Тестовый документ Жулина41П.docx
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

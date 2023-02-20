@@ -26,7 +26,7 @@ namespace VIN_LIB
             {
                 int count = 0;
 
-                foreach (char item in symbols)
+                foreach (var item in symbols)
                 {
                     count++;
 
